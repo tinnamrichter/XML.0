@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./lexturenotes.xsl"?>
+
+<lexturenotes>
+    <lexturenote>
+        <context>Node.js</context>
+        <date>14/02/2020</date>
+        <lecturer>Niels Müller Larsen</lecturer>
+        <headline>MongoDB, and NoSQL Document Type Database</headline>
+        <notes>
+            En database indeholder et sæt af kollektioner - students
+            En kollektion indeholder et sæt af dokumenter - student -> document
+            Et dokument indeholder et sæt af felter - id, navn, adr, personnr, by ….
+            Et felt er et nøgle-værdi (key-value) par - “navn:” “Tinna”
+            En nøgle (key) er en string - “navn” ……
+            En værdi (value) er en basis type som string, integer, float, timestamp, binary…
+        </notes>
+    </lexturenote>
+
+        <lexturenote>
+        <context>JavaScript</context>
+        <date>14/11/2019</date>
+        <lecturer>Niels Müller Larsen</lecturer>
+        <headline>Cookies</headline>
+        <notes>
+            document.cookie = ‘foo=bar; path=/‘;
+            laver man en cookie der slettes når browseren lukkes.
+
+            document.cookie = bar=baz; path=/; expires=Thur, Sep 26 2019 15:27:28’;
+            laver man en cookie der slettes efter den dato som man har angivet.
+        </notes>
+    </lexturenote>
+</lexturenotes>

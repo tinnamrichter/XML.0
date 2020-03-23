@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./card.xsl"?>
+
+<cards>
+    <card>
+        <name>Tinna María Richter</name>
+        <title>Web developer</title>
+        <email>tinnamrichter@gmail.com</email>
+        <phone>+45 60 19 58 84</phone>
+    </card>
+</cards>
