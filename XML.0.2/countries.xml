@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<world>
+    <country>
+        <id>ObjectId("5e566bfe4572b9afa096829f")</id>
+        <code>BGD</code>
+        <name>Bangladesh</name>
+        <continent>Asia</continent>
+        <region>Southern and Central Asia</region>
+        <surfacearea>143998</surfacearea>
+        <indepyear>1971</indepyear>
+        <population>129155000</population>
+        <lifeexpectancy>60.2</lifeexpectancy>
+        <gnp>32852</gnp>
+        <gnpold>31966</gnpold>
+        <localname>Bangladesh</localname>
+        <governmentform>Republic</governmentform>
+        <headofstate>Sahabuddin Ahmad</headofstate>
+        <capital>150</capital>
+        <code2>BD</code2>
+    </country>
+
+    <country>
+        <id>ObjectId("5e566bfe4572b9afa096829e")</id>
+        <code>BGR</code>
+        <name>Bulgaria</name>
+        <continent>Europe</continent>
+        <region>Eastern Europe</region>
+        <surfacearea>110994</surfacearea>
+        <indepyear>1908</indepyear>
+        <population>8190900</population>
+        <lifeexpectancy>70.9</lifeexpectancy>
+        <gnp>12178</gnp>
+        <gnpold>10169</gnpold>
+        <localname>Balgarija</localname>
+        <governmentform>Republic</governmentform>
+        <headofstate>Peter Stojanov</headofstate>
+        <capital>539</capital>
+        <code2>BG</code2>
+    </country>
+
+    <country>
+        <id>ObjectId("5e566bfe4572b9afa096829d")</id>
+        <code>BFu</code>
+        <name>Burkina Faso</name>
+        <continent>Africa</continent>
+        <region>Western Africa</region>
+        <surfacearea>274000</surfacearea>
+        <indepyear>1960</indepyear>
+        <population>11937000</population>
+        <lifeexpectancy>46.7</lifeexpectancy>
+        <gnp>2425</gnp>
+        <gnpold>12201</gnpold>
+        <localname>Burkina Faso</localname>
+        <governmentform>Republic</governmentform>
+        <headofstate>Blaise Compaoré</headofstate>
+        <capital>0</capital>
+        <code2>BF</code2>
+    </country>
+</world>

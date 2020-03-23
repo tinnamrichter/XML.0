@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<world>
+    <continent>
+        <id>ObjectId("5e566bc9aaac15dded6d141a")</id>
+        <name>Africa</name>
+    </continent>
+
+    <continent>
+        <id>ObjectId("5e566bc9aaac15dded6d141b")</id>
+        <name>Asia</name>
+    </continent>
+
+    <continent>
+        <id>ObjectId("5e566bc9aaac15dded6d141c")</id>
+        <name>North America</name>
+    </continent>
+
+    <continent>
+        <id>ObjectId("5e566bc9aaac15dded6d141d")</id>
+        <name>Antarctica</name>
+    </continent>
+
+    <continent>
+        <id>ObjectId("5e566bc9aaac15dded6d141e")</id>
+        <name>South America</name>
+    </continent>
+
+    <continent>
+        <id>ObjectId("5e566bc9aaac15dded6d141f")</id>
+        <name>Oceania</name>
+    </continent>
+
+    <continent>
+        <id>ObjectId("5e566bc9aaac15dded6d1420")</id>
+        <name>Europe</name>
+    </continent>
+</world>

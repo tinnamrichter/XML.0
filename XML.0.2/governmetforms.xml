@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<world>
+    <governmentform>
+        <id>ObjectId("5e566be4525b70d8a41c2dbe")</id>
+        <name>Socialistic Republic</name>
+    </governmentform>
+
+    <governmentform>
+        <id>ObjectId("5e566be4525b70d8a41c2dbd")</id>
+        <name>Nonmetropolitan Territory of New Zealand</name>
+    </governmentform>
+
+    <governmentform>
+        <id>ObjectId("5e566be4525b70d8a41c2dbb")</id>
+        <name>Nonmetropolitan Territory of France</name>
+    </governmentform>
+</world>
